@@ -2,6 +2,8 @@
 
 A Java-based vending machine simulator that lets users insert money, select items, and make purchases. Built to demonstrate object-oriented programming and interactive design.
 
+![Virtual-Vending-Machine](./Images/virtual-vending-machine.png)
+
 ## Features
 - Item selection and pricing
 - Balance tracking and refund system
